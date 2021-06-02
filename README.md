@@ -1,4 +1,4 @@
-# Getting started with how build a react npm package
+# Getting started with how to build a react npm package
 
 # Getting Started with Create React App
 
